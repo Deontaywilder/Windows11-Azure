@@ -13,7 +13,7 @@
 
 
 - *Open This : https://docs.microsoft.com/vi-vn/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
--              https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine*
+-              https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
 - *Click on Activate Sandbox
 - *Paste this into Cloud Shell :
 
