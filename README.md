@@ -18,7 +18,8 @@
 
 -  ```console  
  
-    curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm
+   
+curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
     
     ```
 - *Enjoy!!*
