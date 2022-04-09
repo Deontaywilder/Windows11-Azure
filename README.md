@@ -18,8 +18,8 @@
 
 -  ```console  
  
-   
-curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
+   curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
+
     
     ```
 - *Enjoy!!*
