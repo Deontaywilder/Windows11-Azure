@@ -19,6 +19,10 @@
 -  ```console  
  
    curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
+   
+   
+   curl -skLO bit.do/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
+
 
     
     ```
