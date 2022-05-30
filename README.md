@@ -24,7 +24,7 @@
     
     ```
     
-    -  ```console  
+-  ```console  
    
    
    curl -skLO bit.do/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
